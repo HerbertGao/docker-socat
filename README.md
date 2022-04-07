@@ -9,5 +9,5 @@ so you should use FQDN instead of shortcuts.
 Instead of running socat, just run this image:
 
 ```
-docker run --rm -it --net host bobrik/socat <your args>
+docker run --rm -it --net host herbertgao/socat <your args>
 ```
